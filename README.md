@@ -19,3 +19,4 @@ Make it easy to retrieve updates from https://furrymusicians.info/ 's public API
 - https://developers.google.com/sheets/api/guides/concepts
 - https://api.jquery.com/jQuery.getJSON/
 - https://api.jquery.com/jQuery.extend/
+- https://masteringjs.io/tutorials/fundamentals/compare-objects
